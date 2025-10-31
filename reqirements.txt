@@ -1,0 +1,50 @@
+# Core Python utilities
+numpy
+pandas
+scikit-learn
+scipy
+
+# Deep Learning / NLP
+torch
+transformers
+sentence-transformers
+langchain
+langchain-community
+langchain-core
+openai
+tiktoken
+
+# Data Processing & Visualization
+matplotlib
+seaborn
+plotly
+
+# Backend / API Integration
+fastapi
+uvicorn
+requests
+pydantic
+
+# Workflow Automation / Orchestration
+celery
+redis
+
+# Experimentation / Notebooks
+jupyter
+notebook
+ipykernel
+
+# Model Saving & Serialization
+joblib
+pickle-mixin
+
+# Optional: For vector databases or embeddings
+faiss-cpu
+chromadb
+
+# Optional: For logging & monitoring
+loguru
+python-dotenv
+
+# Optional: For testing
+pytest
